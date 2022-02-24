@@ -1,0 +1,5 @@
+# FakeRiz Builds
+
+This repository contains all the CI Automated builds of FakeRiz Builds.
+
+Check the releases tab for download links :-)
